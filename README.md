@@ -6,6 +6,8 @@
 
 Project Acadia is an innovative solution designed to purify the air using IoT and Android technologies. It employs a combination of hardware sensors and an Android application to monitor and improve air quality autonomously.
 
+![Screenshot 1](/Screenshots/SplashScreen.png)
+
 ## Features
 
 - **Air Purification**: The hardware setup includes two fans and a filter to clean the air.
