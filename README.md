@@ -15,6 +15,8 @@ Project Acadia is an innovative solution designed to purify the air using IoT an
 - **Data Transmission**: Utilizes an ESP-2331 WiFi module to transfer sensor data to the ThingSpeak cloud.
 - **Android Application**: The Acadia app retrieves data from ThingSpeak using Retrofit and displays it using the MPAndroidChart library. It also predicts future values using simple regression and sends notifications when pollutant levels cross predefined thresholds.
 
+![Screenshot 2](/Screenshots/Home.png)
+
 ## Hardware Components
 
 - **Fans**: Two fans are positioned at the top and bottom of the device to facilitate air circulation.
@@ -33,6 +35,8 @@ Project Acadia is an innovative solution designed to purify the air using IoT an
 - **MPAndroidChart**: Library for plotting the data retrieved from ThingSpeak.
 - **Simple Regression**: Algorithm used to predict future values of air quality metrics.
 - **Notifications**: The app sends alerts when pollutant levels exceed set thresholds.
+
+![Screenshot 3](/Screenshots/Air.png)
 
 ## How It Works
 
