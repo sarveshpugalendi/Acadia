@@ -68,9 +68,6 @@ Project Acadia is an innovative solution designed to purify the air using IoT an
 
 Contributions are welcome! Please fork the repository and submit pull requests for any enhancements or bug fixes.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
 
